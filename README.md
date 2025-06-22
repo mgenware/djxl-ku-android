@@ -3,6 +3,7 @@
 djxl (from libjxl) for Android.
 
 - Min SDK: 26
+- ABIs: arm64-v8a, x86_64
 - The version of this library is the version of libjxl used to build it.
 
 ## Installation
