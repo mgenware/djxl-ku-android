@@ -1,4 +1,4 @@
-# djxlku-android
+# djxl-ku-android
 
 djxl (from libjxl) on Android.
 
