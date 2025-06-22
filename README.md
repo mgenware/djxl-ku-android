@@ -1,0 +1,28 @@
+# djxlku-android
+
+djxl (from libjxl) for Android. Min SDK: 26.
+
+## Installation
+
+```kotlin
+repositories {
+  google()
+  mavenCentral()
+}
+
+dependencies {
+  implementation("com.mgenware.djxlku:djxlku:0.0.2")
+}
+```
+
+## Usage
+
+```kotlin
+val djxlKu = DjxlKu();
+// args: djxl arguments.
+val args = arrayOf<String>(
+    inputFile,
+    outFile
+)
+val retCode = djxlKu.run(args)
+```
