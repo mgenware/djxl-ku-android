@@ -1,6 +1,6 @@
 # djxlku-android
 
-djxl (from libjxl) for Android.
+djxl (from libjxl) on Android.
 
 - Min SDK: 26
 - ABIs: arm64-v8a, x86_64
