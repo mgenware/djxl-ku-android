@@ -1,6 +1,9 @@
 # djxlku-android
 
-djxl (from libjxl) for Android. Min SDK: 26.
+djxl (from libjxl) for Android.
+
+- Min SDK: 26
+- The version of this library is the version of libjxl used to build it.
 
 ## Installation
 
@@ -11,7 +14,7 @@ repositories {
 }
 
 dependencies {
-  implementation("com.mgenware.djxlku:djxlku:0.0.2")
+  implementation("com.mgenware.djxlku:djxlku:0.11.1")
 }
 ```
 
