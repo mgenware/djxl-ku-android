@@ -1,6 +1,6 @@
 # djxl-ku-android
 
-djxl (from libjxl) on Android.
+djxl (libjxl decoder) on Android.
 
 - Min SDK: 26
 - ABIs: arm64-v8a, x86_64
