@@ -2,9 +2,9 @@
 
 djxl (libjxl decoder) on Android.
 
+- libjxl 0.11.1
 - Min SDK: 26
 - ABIs: arm64-v8a, x86_64
-- The version of this library is the version of libjxl used to build it.
 
 | iOS / macOS                                                  | Android                                                        |
 |--------------------------------------------------------------|----------------------------------------------------------------|
